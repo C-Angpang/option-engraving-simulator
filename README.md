@@ -5,6 +5,6 @@
 - HTML/CSS/JavaScript만으로 실행되는 정적 페이지입니다.
 - 경제 결과는 기획서의 가정에 따른 예측이며 실제 이용자 통계가 아닙니다.
 - 기본 시나리오: 100,000명, 84일, 초기 보유량 30일분, 매일 수급의 50%를 각인 예산에 추가.
-- 최신 버전: v4 (2026-11-17), 가독성 개선 반영.
+- 목표 비용 계산, 경제 효과 분석, 직접 각인 체험을 제공합니다.
 
-GitHub Pages: Settings → Pages → Deploy from a branch → main / (root).
+[옵션 각인 시뮬레이터 실행하기](https://c-angpang.github.io/option-engraving-simulator/)
